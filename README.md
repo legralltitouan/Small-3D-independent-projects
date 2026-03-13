@@ -48,17 +48,26 @@ Bienvenue sur mon repository de rendus. Voici l'ensemble de mes projets organis�
 
 ---
 
-## 🎬 Vidéos & Animations
-*Cliquez sur les liens pour voir les séquences d'animation.*
+## 🎬 Vidéos & Animations (Lecteurs)
 
-| Nom de l'animation | Lien de visionnage |
-|:---|:---:|
-| **Animation Style Trailer** | [🎞️ Voir la vidéo](animation%201%20style%20trailer0001-0185.mp4) |
-| **Iron Man Core** | [🎞️ Voir la vidéo](video%20final0000-0465.mp4) |
-| **Car Outline Style** | [🎞️ Voir la vidéo](CarOutlineStyle.mp4) |
-| **Test Toon Shader** | [🎞️ Voir la vidéo](test%20paint%20toon%20shader0001-0050.mp4) |
-| **BMO Animation** | [🎞️ Voir la vidéo](BMO0001-0100.mp4) |
-| **Tente Animation** | [🎞️ Voir la vidéo](tente0001-0100.mp4) |
-| **Vidéo Séquence 0001-0100** | [🎞️ Voir la vidéo](video0001-0100.mp4) |
+### 🚀 Iron Man Core
+<video src="video%20final0000-0465.mp4" controls width="100%"></video>
+
+### 🚗 Car Outline Style
+<video src="CarOutlineStyle.mp4" controls width="100%"></video>
+
+### 🎭 Animation Style Trailer
+<video src="animation%201%20style%20trailer0001-0185.mp4" controls width="100%"></video>
+
+### 🎨 Test Toon Shader
+<video src="test%20paint%20toon%20shader0001-0050.mp4" controls width="100%"></video>
+
+### 🤖 BMO & Tente
+| BMO Animation | Tente Animation |
+|:---:|:---:|
+| <video src="BMO0001-0100.mp4" controls></video> | <video src="tente0001-0100.mp4" controls></video> |
+
+### 🎞️ Vidéo Séquence
+<video src="video0001-0100.mp4" controls width="100%"></video>|
 
 ---
