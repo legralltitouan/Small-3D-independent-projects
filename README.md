@@ -48,26 +48,26 @@ Bienvenue sur mon repository de rendus. Voici l'ensemble de mes projets organis�
 
 ---
 
-## 🎬 Vidéos & Animations (Lecteurs)
+## 🎬 Vidéos & Animations
 
 ### 🚀 Iron Man Core
-<video src="video%20final0000-0465.mp4" controls width="100%"></video>
+![](video%20final0000-0465.mp4)
 
 ### 🚗 Car Outline Style
-<video src="CarOutlineStyle.mp4" controls width="100%"></video>
+![](CarOutlineStyle.mp4)
 
 ### 🎭 Animation Style Trailer
-<video src="animation%201%20style%20trailer0001-0185.mp4" controls width="100%"></video>
+![](animation%201%20style%20trailer0001-0185.mp4)
 
 ### 🎨 Test Toon Shader
-<video src="test%20paint%20toon%20shader0001-0050.mp4" controls width="100%"></video>
+![](test%20paint%20toon%20shader0001-0050.mp4)
 
 ### 🤖 BMO & Tente
 | BMO Animation | Tente Animation |
 |:---:|:---:|
-| <video src="BMO0001-0100.mp4" controls></video> | <video src="tente0001-0100.mp4" controls></video> |
+| ![](BMO0001-0100.mp4) | ![](tente0001-0100.mp4) |
 
 ### 🎞️ Vidéo Séquence
-<video src="video0001-0100.mp4" controls width="100%"></video>|
+![](video0001-0100.mp4)
 
 ---
